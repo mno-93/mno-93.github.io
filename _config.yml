@@ -16,9 +16,9 @@ author: Matthias Norden
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Current Research: "https://www.uni-bielefeld.de/(de)/technische-fakultaet/arbeitsgruppen/Multimodal_Behavior_Processing/"
+    - Digital Stress Test: "https://resilience.tf.uni-bielefeld.de/publix/1/start?batchId=34&personalMultipleWorkerId=35"
+# Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mat@example.com"
+  email: "mat.LASTNAME@googlemail.com"
 # facebook: deanattali
   github: mno-93
 # twitter: 
