@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Books 
 subtitle: Thoughts on books I've read...
 ---
