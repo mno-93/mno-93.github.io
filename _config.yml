@@ -15,9 +15,10 @@ author: Matthias Norden
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Research:
     - Current Research: "https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=254736452"
     - Digital Stress Test: "https://resilience.tf.uni-bielefeld.de/publix/1/start?batchId=34&personalMultipleWorkerId=35"
+  Books: "books"
 # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
